@@ -1,3 +1,11 @@
 ul.buttons a:hover{
-    color: #ff00ff;
+    color: #ff01ff;
+}
+
+ul.buttons a:hover{
+    color: #ff02ff;
+}
+
+ul.buttons a:hover{
+    color: #ff03ff;
 }
